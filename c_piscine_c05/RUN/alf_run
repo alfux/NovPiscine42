@@ -1,0 +1,1 @@
+find . -type f -name '*.c' -exec gcc -Wall -Wextra -Werror {} + && echo Compilation OK! && norminette -R CheckForbiddenSourceHeader . ; echo ------------------------- ; ./a.out ; echo 

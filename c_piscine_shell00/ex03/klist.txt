@@ -1,0 +1,6 @@
+Credentials cache: API:F6AA9A8C-3B5D-4637-B04B-FCDAF0930126
+        Principal: afuchs@42MULHOUSE.FR
+
+  Issued                Expires               Principal
+Nov  9 16:20:33 2021  Nov 10 02:20:33 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
+Nov  9 16:20:35 2021  Nov 10 02:20:33 2021  HTTP/student-storage.42mulhouse.fr@42MULHOUSE.FR
